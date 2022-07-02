@@ -36,8 +36,8 @@ class Window(QMainWindow):
         self.transparent = TransparentWindow(self)
 
     def Start_When_Click(self):
-        self.close()
         self.transparent.showFullScreen()
+        self.close()
 
     def Quit_When_Click(self):
         self.close()
@@ -46,8 +46,10 @@ class Window(QMainWindow):
         self.cursorloc_info.setText("("+str(event.globalX())+", "+str(event.globalY())+")")
 
 class TransparentWindow(QMainWindow):
-    def __init__(self,parent = None):
+    def __init__(self, main_window=None, parent = None):
         super().__init__(parent)
+        self.setWindowIcon(QIcon(resource_path("kursor.ico")))
+        self.main_window = main_window
         self.setWindowOpacity(0.5)
         self.UiComponents()
         self.setMouseTracking(True)
@@ -55,7 +57,7 @@ class TransparentWindow(QMainWindow):
     def mousePressEvent(self,QMouseEvent):
         self.x = QMouseEvent.globalX()
         self.y = QMouseEvent.globalY()
-        self.close()
+        self.hide()
         self.result_win = ResultWindow(self)
         self.result_win.cursorloc_info.setText("("+str(self.x)+", "+str(self.y)+")")
     
@@ -69,8 +71,9 @@ class TransparentWindow(QMainWindow):
         self.cursorloc_info.setFont(font)
 
 class ResultWindow(QMainWindow):
-    def __init__(self,parent = None):
+    def __init__(self,main_window = None, parent = None):
         super().__init__(parent)
+        self.main_window = main_window
         self.setWindowIcon(QIcon(resource_path("kursor.ico")))
         self.setWindowTitle("Mouse Locator")
         self.setGeometry(WIDTH,HEIGHT,600,150)
@@ -97,7 +100,7 @@ class ResultWindow(QMainWindow):
         self.show()
 
     def Start_When_Click(self):
-        self.close()
+        self.hide()
         self.transparent.showFullScreen()
 
     def Quit_When_Click(self):
