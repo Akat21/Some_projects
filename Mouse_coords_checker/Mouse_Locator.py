@@ -4,14 +4,23 @@ from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 import sys
 from screeninfo import get_monitors
+import os
 
 WIDTH = int((get_monitors()[0].width-600)/2)
 HEIGHT = int(get_monitors()[0].height/2)-150
   
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+
 class Window(QMainWindow):
     def __init__(self,parent = None):
         super().__init__(parent)
-        self.setWindowIcon(QIcon('kursor.png'))
+        self.setWindowIcon(QIcon(resource_path("kursor.ico")))
         self.setWindowTitle("Mouse Locator")
         self.setGeometry(WIDTH,HEIGHT,600,150)
         self.setFixedSize(self.size())
@@ -62,7 +71,7 @@ class TransparentWindow(QMainWindow):
 class ResultWindow(QMainWindow):
     def __init__(self,parent = None):
         super().__init__(parent)
-        self.setWindowIcon(QIcon('kursor.png'))
+        self.setWindowIcon(QIcon(resource_path("kursor.ico")))
         self.setWindowTitle("Mouse Locator")
         self.setGeometry(WIDTH,HEIGHT,600,150)
         self.setFixedSize(self.size())
