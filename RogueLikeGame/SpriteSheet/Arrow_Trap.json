@@ -1,0 +1,373 @@
+{
+	"frames": {
+
+		"Arrow_Trap1.png": {
+			"frame": {
+				"x": 32,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap2.png": {
+			"frame": {
+				"x": 128,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap3.png": {
+			"frame": {
+				"x": 224,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap4.png": {
+			"frame": {
+				"x": 320,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap5.png": {
+			"frame": {
+				"x": 416,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap6.png": {
+			"frame": {
+				"x": 512,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap7.png": {
+			"frame": {
+				"x": 608,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap8.png": {
+			"frame": {
+				"x": 704,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap9.png": {
+			"frame": {
+				"x": 800,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap10.png": {
+			"frame": {
+				"x": 896,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap11.png": {
+			"frame": {
+				"x": 992,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap12.png": {
+			"frame": {
+				"x": 1088,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap13.png": {
+			"frame": {
+				"x": 1184,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap14.png": {
+			"frame": {
+				"x": 1280,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap15.png": {
+			"frame": {
+				"x": 1376,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap16.png": {
+			"frame": {
+				"x": 1472,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		},
+
+		"Arrow_Trap17.png": {
+			"frame": {
+				"x": 1568,
+				"y": 8,
+				"w": 32,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1632,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 1632,
+				"h": 32
+			}
+		}
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "Arrow_Trap.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1634,
+			"h": 34
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:52611972df3dc3deccfbcc3b5cf7a9d9:62192c4f66079326ed6af92e5148f37b:1b35bd31f9e3fb39772000e001c4b7ae$"
+	}
+}

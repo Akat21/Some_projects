@@ -1,0 +1,20 @@
+{"frames": {
+
+"Slime_damaged.png":
+{
+	"frame": {"x":40,"y":104,"w":16,"h": 16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Slime_damaged.png",
+	"format": "RGBA8888",
+	"size": {"w":130,"h":130},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:474bfd4a20683bc695a3137b40d0807e:2fc02954d1356a086e10755b157245f3:a6a73b1b3e7728f5c639db98a8d91687$"
+}
+}

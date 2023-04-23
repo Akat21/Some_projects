@@ -1,0 +1,311 @@
+{
+	"frames": {
+
+		"Fire_Trap1.png": {
+			"frame": {
+				"x": 2,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap2.png": {
+			"frame": {
+				"x": 34,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap3.png": {
+			"frame": {
+				"x": 66,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap4.png": {
+			"frame": {
+				"x": 98,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap5.png": {
+			"frame": {
+				"x": 130,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap6.png": {
+			"frame": {
+				"x": 162,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap7.png": {
+			"frame": {
+				"x": 194,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap8.png": {
+			"frame": {
+				"x": 226,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap9.png": {
+			"frame": {
+				"x": 258,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap10.png": {
+			"frame": {
+				"x": 290,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap11.png": {
+			"frame": {
+				"x": 322,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap12.png": {
+			"frame": {
+				"x": 354,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap13.png": {
+			"frame": {
+				"x": 386,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		},
+
+		"Fire_Trap14.png": {
+			"frame": {
+				"x": 418,
+				"y": 0,
+				"w": 30,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 448,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 448,
+				"h": 41
+			}
+		}
+
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "Fire_Trap.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 450,
+			"h": 43
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:e918e816619b3c9cb94bf17e7b186531:0d11a050b64c71c52e9a6c98ef5e394c:40d32f681ec3a54bb515e4dd3ff04591$"
+	}
+}
